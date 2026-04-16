@@ -71,7 +71,6 @@ person["age"] = 21
 
 # Functions
 
-
 def greet(name):
     print(f"Hi {name}")
 
